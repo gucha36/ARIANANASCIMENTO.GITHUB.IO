@@ -26,8 +26,8 @@ O design deste portfólio foi elaborado para ser **clean**, **moderno** e focado
 
 ## 🌐 Acesse o Portfólio
 
-- [Prévia do Projeto](https://github.com/gucha36?tab=repositories) 🚀
-- [Repositório no GitHub](https://github.com/ariananascimento/portfolio) 📂
+- [Prévia do Projeto](https://gucha36.github.io/ARIANANASCIMENTO.GITHUB.IO/) 🚀
+- [Repositório no GitHub](https://github.com/gucha36/ARIANANASCIMENTO.GITHUB.IO.git) 📂
 
 ## 📬 Contato
 
